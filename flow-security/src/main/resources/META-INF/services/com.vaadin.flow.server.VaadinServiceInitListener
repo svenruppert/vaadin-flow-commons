@@ -1,0 +1,2 @@
+com.svenruppert.vaadin.security.ApplicationServiceInitListener
+com.svenruppert.vaadin.security.authorization.impl.AuthorizationListener
